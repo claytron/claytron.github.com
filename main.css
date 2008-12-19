@@ -15,12 +15,21 @@ a:visited {
 }
 
 #content {
-    width: 500px;
+    width: 250px;
     background-color: #eeeeee;
-    margin: 50px 0 0 150px;
+    margin: 25px 0 0 150px;
     padding: 1em;
 }
 
 p {
     margin: 5px 0;
+}
+
+ul {
+	margin: 0 0 0 0;
+	list-style-type: cjk-ideographic;
+}
+
+li {
+    
 }
